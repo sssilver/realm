@@ -1,0 +1,11 @@
+[package]
+name = "realm"
+version = "0.0.1"
+authors = ["Areg Harutyunyan <sssilver@gmail.com>"]
+
+[dependencies]
+time = "0.1"
+
+[dependencies.sdl2]
+version = "0.29"
+features = ["image"]
